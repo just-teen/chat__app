@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+NOTE : To see the real time exchange of messages, open two tabs in your browser and login 2 different account using
+Google email
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
